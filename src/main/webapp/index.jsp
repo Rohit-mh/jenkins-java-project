@@ -13,11 +13,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Rohit .</h2>
+      <h2> Dhaneshwari</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>hakoooo shabir</label>
+          <label>Hi bro</label>
         </div>
         <div class="form-control">
           <input type="password" required />
