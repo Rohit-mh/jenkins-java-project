@@ -14,11 +14,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU.</h2>
+      <h2> Rohit .</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>hakoooo shabir</label>
         </div>
         <div class="form-control">
           <input type="password" required />
